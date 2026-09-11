@@ -1,4 +1,4 @@
-//player 1,ID:41230301534 Name:Mahbub ALAm
+//player 1,ID:41230301538 Name:Mahbub ALAm
 //player 2,ID:41230301453 Name:Samia Tasnim
 #include <GL/glut.h>
 #include <stdlib.h>
